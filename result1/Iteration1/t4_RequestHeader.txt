@@ -1,0 +1,9 @@
+GET /IE11/1434748155000/iecompatviewlist.xml HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ja,en-US;q=0.7,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: iecvlist.microsoft.com
+Cookie: SRCHD=AF=NOFORM; SRCHUSR=DOB=20160824
+

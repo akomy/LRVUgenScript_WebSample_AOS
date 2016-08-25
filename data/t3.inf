@@ -1,0 +1,13 @@
+[t3]
+FileName1=t3.html
+URL1=http://www.advantageonlineshopping.com/accountservice/GetAccountConfigurationRequest
+Total=2
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=t3_RequestBody.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=text/xml; charset=utf-8
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_popularProducts.html
+URL2=http://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json
+[ProtocolInfo]
+ProtocolId=QTWeb

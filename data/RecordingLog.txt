@@ -1,0 +1,716 @@
+[API Trapper      ( acc: 788)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( f90: f80)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( de4: dc8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( de4: c5c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( de4: c5c)] Load Network Traffic Analyzers:
+[Network Analyzer ( de4: c5c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( de4: c5c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( de4: c5c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( de4: c5c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( de4: c5c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( de4: c5c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( de4: c5c)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( de4: c5c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( de4: cac)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: c5c)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: c5c)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( de4: cac)] "GET /"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 398 bytes (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 294 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 5162 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/main.min.css"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 440 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Advantage_online_shopping_team.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid:  2) Client -> Server @ : 506 bytes (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 301 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 14032 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 4684 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 10220 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /vendor/requirejs/require.js"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 471 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 4056 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 9896 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 311 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 5516 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 15736 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 10220 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 11356 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 5432 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 812 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 733 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 5516 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer ( de4: 814)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: 814)] Request Connection: Remote Server @ 216.58.197.174:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 216.58.197.174:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 6648 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 11356 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 316 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 4936 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 5621 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 12004 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 13464 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /main.min.js"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 455 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 5730 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 1773 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cb4)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( de4: ca4)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 14924 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 15088 bytes  (Service=HTTP)
+[Network Analyzer ( f90: d3c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( f90: d3c)] Load Network Traffic Analyzers:
+[Network Analyzer ( f90: d3c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( f90: d3c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( f90: d3c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( f90: d3c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( f90: d3c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( f90: d3c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( f90: d3c)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: d3c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( f90: dd4)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 10384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 6976 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 15244 bytes  (Service=HTTP)
+[Network Analyzer ( f90: d3c)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( f90: d04)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: d3c)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( f90: dd4)] "GET /favicon.ico"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  1) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer ( f90: d04)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 488 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  1) Server -> Client : 542 bytes  (Service=HTTP)
+[Network Analyzer ( de4: 814)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: 814)] Request Connection: Remote Server @ 172.217.25.206:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 11680 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 5840 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /ocsp/MEkwRzBFMEMwQTAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCCBPVgeNGiGzn"   
+[Network Analyzer ( de4: cac)]   (Sid:  6) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 15088 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  6) Server -> Client : 1889 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "POST /ocsp"   
+[Network Analyzer ( de4: cac)]   (Sid:  6) Client -> Server @ : 302 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 12816 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 15244 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  6) Server -> Client : 1776 bytes  (Service=HTTP)
+[Network Analyzer ( de4: e08)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: e08)] Request Connection: Remote Server @ 216.58.197.174:80   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 9138 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /GIAG2.crl"   
+[Network Analyzer ( de4: cac)]   (Sid:  7) Client -> Server @ : 204 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  7) Server -> Client : 116 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /GIAG2.crl"   
+[Network Analyzer ( de4: cac)]   (Sid:  7) Client -> Server @ : 216 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  7) Server -> Client : 116 bytes  (Service=HTTP)
+[Net An. Error    ( de4: ca4)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( de4: cb4)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( de4: c5c)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( de4: cac)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( de4: c5c)] Request Connection: Remote Server @ 216.58.197.174:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( de4: e7c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Web Request      ( de4: cac)] "GET /css/images/logo.png"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer ( de4: e7c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      ( de4: cac)] "GET /css/fonts/roboto_light_macroman/Roboto-Light-webfont.eot?"   
+[Network Analyzer ( de4: cac)]   (Sid:  2) Client -> Server @ : 519 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /analytics.js"   
+[Network Analyzer ( de4: cac)]   (Sid:  8) Client -> Server @ : 335 bytes (SSL)(Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot?"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 521 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: c5c)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 2944 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 991 bytes (SSL) (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/closeDark.png"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 485 bytes (Service=HTTP)
+[Network Analyzer ( de4: 814)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 316 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 4556 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /services.properties"   
+[Network Analyzer ( de4: cac)]   (Sid:  2) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 316 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 4980 bytes  (Service=HTTP)
+[Network Analyzer ( de4: c5c)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 1397 bytes  (Service=HTTP)
+[Network Analyzer ( de4: 814)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 1314 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/api/v1/categories/all_data"   
+[Network Analyzer ( de4: cac)]   (Sid:  2) Client -> Server @ : 478 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 495 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot?"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 517 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/api/v1/categories"   
+[Network Analyzer ( de4: cac)]   (Sid:  9) Client -> Server @ : 469 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/FacebookLogo.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 10) Client -> Server @ : 488 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /collect?v=1&_v=j46&a=836145837&t=pageview&_s=1&dl=http%3A%2F%2Fwww.advantageonlineshopping.com%2F&ul=ja-jp&de=utf-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1600x900&vp=1148x622&je=1&_u=AACAAMQAI~&jid=&cid=206493945.1472112125&tid=UA-81334227-1&z=1603344062"   
+[Network Analyzer ( de4: cac)]   (Sid:  8) Client -> Server @ : 599 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Server -> Client : 472 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 12292 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 4898 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 1328 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 4580 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/favicon.ico"   
+[Network Analyzer ( de4: cac)]   (Sid: 10) Client -> Server @ : 344 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 699 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "POST /accountservice/GetAccountConfigurationRequest"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 361 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 9608 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/api/v1/deals/search?dealOfTheDay=true"   
+[Network Analyzer ( de4: cac)]   (Sid:  9) Client -> Server @ : 489 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 1267 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 887 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /app/tempFiles/popularProducts.json"   
+[Network Analyzer ( de4: cac)]   (Sid:  9) Client -> Server @ : 478 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 2664 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /app/views/home-page.html"   
+[Network Analyzer ( de4: cac)]   (Sid:  9) Client -> Server @ : 444 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 296 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 10298 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Special-offer.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid:  9) Client -> Server @ : 489 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/chat_logo.png"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 485 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/GoUp.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 10) Client -> Server @ : 480 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/facebook.png"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer ( de4: 814)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 3302 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 2413 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 9652 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/twitter.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 10) Client -> Server @ : 483 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 1882 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.eot?"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 517 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/linkedin.png"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer ( de4: 814)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Banner1.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid: 11) Client -> Server @ : 483 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 812 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 2363 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Banner2.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid: 10) Client -> Server @ : 483 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 316 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 2006 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 5275 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Banner3.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 483 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Popular-item3.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 489 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 236 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Popular-item2.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid:  9) Client -> Server @ : 489 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 304 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 12572 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 9896 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 13741 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Popular-item1.jpg"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 489 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/arrow_right.png"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 487 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 11703 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=1237"   
+[Network Analyzer ( de4: cac)]   (Sid:  9) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 10220 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 2596 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 302 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 1293 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=1236"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 8431 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=1235"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 11365 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 8436 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 213 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 9796 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 15290 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=1238"   
+[Network Analyzer ( de4: cac)]   (Sid:  1) Client -> Server @ : 493 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=1234"   
+[Network Analyzer ( de4: cac)]   (Sid:  3) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Server -> Client : 4998 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 5516 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 8248 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 11356 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 13628 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 213 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 15548 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Server -> Client : 11193 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Server -> Client : 14286 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 6000 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Server -> Client : 11308 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 3812 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 10384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 200 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  2) Server -> Client : 11687 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 6000 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Server -> Client : 13050 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer ( f90: d04)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( f90: bb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( f90: bb8)] Request Connection: Remote Server @ 68.232.45.201:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( f90: d04)] Request Connection: Remote Server @ 68.232.45.201:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer ( f90: 9b0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( f90: c9c)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( f90: fe0)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( f90: fe0)] Request Connection: Remote Server @ 198.41.214.183:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      ( f90: dd4)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE1oABDWIZ7Z5UA3fG4sAAQAENYg%3D"   
+[Network Analyzer ( f90: dd4)]   (Sid:  5) Client -> Server @ : 245 bytes (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  5) Server -> Client : 2687 bytes  (Service=HTTP)
+[Web Request      ( f90: dd4)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE1oABDWIZ7Z5UA3fG4sAAQAENYg%3D"   
+[Network Analyzer ( f90: dd4)]   (Sid:  5) Client -> Server @ : 288 bytes (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  5) Server -> Client : 2687 bytes  (Service=HTTP)
+[Network Analyzer ( f90: e94)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( f90: e94)] Request Connection: Remote Server @ 68.232.45.201:80   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      ( f90: dd4)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Client -> Server @ : 146 bytes (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 11032 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 13628 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 13500 bytes  (Service=HTTP)
+[Web Request      ( f90: dd4)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Client -> Server @ : 189 bytes (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 15088 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 15088 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Server -> Client : 10904 bytes  (Service=HTTP)
+[Network Analyzer ( f90: e94)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( f90: e94)] Request Connection: Remote Server @ 210.155.101.199:80   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      ( f90: dd4)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Client -> Server @ : 144 bytes (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 3943 bytes  (Service=HTTP)
+[Web Request      ( f90: dd4)] "GET /pki/mscorp/crl/msitwww2.crl"   
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Client -> Server @ : 187 bytes (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  7) Server -> Client : 3943 bytes  (Service=HTTP)
+[Net An. Error    ( f90: 9b0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( f90: c9c)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( f90: bb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( f90: dd4)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( f90: dd4)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( f90: bb8)] Request Connection: Remote Server @ 68.232.45.201:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( f90: 634)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer ( f90: 634)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      ( f90: dd4)] "GET /IE11/1434748155000/iecompatviewlist.xml"   
+[Network Analyzer ( f90: dd4)]   (Sid:  8) Client -> Server @ : 305 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  8) Server -> Client : 497 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  8) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  8) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  8) Server -> Client : 2792 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer ( de4: 814)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: 814)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      ( de4: cac)] "GET /catalog/api/v1/categories/attributes"   
+[Network Analyzer ( de4: cac)]   (Sid: 12) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 4580 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 1840 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /app/views/category-page.html"   
+[Network Analyzer ( de4: cac)]   (Sid: 12) Client -> Server @ : 448 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 2450 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/Filter.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 12) Client -> Server @ : 482 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=4700"   
+[Network Analyzer ( de4: cac)]   (Sid: 13) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: 814)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 1714 bytes  (Service=HTTP)
+[Network Analyzer ( de4: c5c)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: e08)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=4600"   
+[Network Analyzer ( de4: cac)]   (Sid: 12) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 13) Server -> Client : 4593 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=4300"   
+[Network Analyzer ( de4: cac)]   (Sid: 14) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: 814)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 15713 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=4400"   
+[Network Analyzer ( de4: cac)]   (Sid: 15) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: c5c)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=4500"   
+[Network Analyzer ( de4: cac)]   (Sid: 16) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: e08)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid: 13) Server -> Client : 10220 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/category_banner_4.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 17) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Server -> Client : 213 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 5193 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 15) Server -> Client : 213 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 15) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Server -> Client : 4593 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 13) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 303 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 4380 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Server -> Client : 8760 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 11356 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 15) Server -> Client : 10220 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Server -> Client : 8760 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 13) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 13) Server -> Client : 5516 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 10220 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Server -> Client : 6981 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 15) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 13) Server -> Client : 1484 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Server -> Client : 2678 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Server -> Client : 5516 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 15) Server -> Client : 3433 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 5516 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Server -> Client : 6242 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 11356 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 812 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 6648 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 12004 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 13464 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 10384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Server -> Client : 9331 bytes  (Service=HTTP)
+[Network Analyzer ( f90: dd4)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer ( de4: e08)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: e08)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 18)  PROXIED!
+[Web Request      ( de4: cac)] "GET /catalog/api/v1/catalog/LastUpdate/timestamp"   
+[Network Analyzer ( de4: cac)]   (Sid: 18) Client -> Server @ : 487 bytes (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid: 18) Server -> Client : 212 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /app/views/product-page.html"   
+[Network Analyzer ( de4: cac)]   (Sid: 18) Client -> Server @ : 447 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 18) Server -> Client : 4674 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 18) Server -> Client : 2222 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/review_right.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 18) Client -> Server @ : 488 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/reviewUser.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 19) Client -> Server @ : 486 bytes (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: c5c)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: e08)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 172.217.25.206:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( de4: e08)] Request Connection: Remote Server @ 172.217.25.206:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( de4: a44)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer ( de4: e08)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid: 18) Server -> Client : 1374 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid: 19) Server -> Client : 1841 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /css/images/review_Left_disabled.png"   
+[Network Analyzer ( de4: cac)]   (Sid: 18) Client -> Server @ : 496 bytes (Service=HTTP)
+[Network Analyzer ( de4: c5c)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=4602"   
+[Network Analyzer ( de4: cac)]   (Sid: 19) Client -> Server @ : 493 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /catalog/fetchImage?image_id=4603"   
+[Network Analyzer ( de4: cac)]   (Sid: 22) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer ( de4: b70)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer ( de4: e08)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid: 18) Server -> Client : 1386 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 22) Server -> Client : 4593 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 19) Server -> Client : 213 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 52.90.189.176:80   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid: 19) Server -> Client : 7300 bytes  (Service=HTTP)
+[Network Analyzer ( de4: e0c)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cac)]   (Sid: 22) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 22) Server -> Client : 8760 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( de4: cac)]   (Sid: 19) Server -> Client : 13140 bytes  (Service=HTTP)
+[Network Analyzer ( de4: e0c)] Request Connection: Remote Server @ 172.217.25.206:80   (Service=)  (Sid= 25)  PROXIED!
+[Web Request      ( de4: cac)] "GET /ocsp/MEkwRzBFMEMwQTAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCCEg3gFS6m6jd"   
+[Network Analyzer ( de4: cac)]   (Sid: 25) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 25) Server -> Client : 1889 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 22) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 25) Client -> Server @ : 227 bytes (Service=HTTP)
+[Web Request      ( de4: cac)] "POST /ocsp"   
+[Network Analyzer ( de4: cac)]   (Sid: 25) Client -> Server @ : 75 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 19) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 19) Server -> Client : 756 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 25) Server -> Client : 1776 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 22) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 22) Server -> Client : 5516 bytes  (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( de4: cb8)] Address lookup for WIN-85G9V2VDAAB = 172.31.22.147
+[Network Analyzer ( de4: cb8)] Request Connection: Remote Server @ 216.58.197.174:80   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( de4: cac)]   (Sid: 22) Server -> Client : 7315 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /GIAG2.crl"   
+[Network Analyzer ( de4: cac)]   (Sid: 26) Client -> Server @ : 204 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 26) Server -> Client : 116 bytes  (Service=HTTP)
+[Web Request      ( de4: cac)] "GET /GIAG2.crl"   
+[Network Analyzer ( de4: cac)]   (Sid: 26) Client -> Server @ : 216 bytes (Service=HTTP)
+[Network Analyzer ( de4: cac)]   (Sid: 26) Server -> Client : 116 bytes  (Service=HTTP)
+[Net An. Error    ( de4: b70)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( de4: a44)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( de4: cac)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer ( de4: cac)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer ( de4: cac)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( de4: cac)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 22) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer ( de4: cac)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer ( f90: dd4)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer ( f90: dd4)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer ( f90: dd4)]   (Sid:  8) Connection Terminated (by Client)

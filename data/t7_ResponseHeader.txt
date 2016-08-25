@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Accept-Ranges: bytes
+ETag: W/"6602-1471345302000"
+Last-Modified: Tue, 16 Aug 2016 11:01:42 GMT
+Cache-Control: max-age=0
+Expires: Thu, 25 Aug 2016 08:02:30 GMT
+Content-Type: text/html
+Content-Length: 6602
+Date: Thu, 25 Aug 2016 08:02:30 GMT
+

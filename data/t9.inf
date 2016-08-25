@@ -1,0 +1,15 @@
+[t9]
+FileName1=t9.html
+URL1=http://www.advantageonlineshopping.com/accountservice/GetAccountConfigurationRequest
+Total=3
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=t9_RequestBody.txt
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=text/xml; charset=utf-8
+SnapshotXmlFile=snapshot_9.xml
+FileName2=t9_search.html
+URL2=http://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true
+FileName3=t9_popularProducts.html
+URL3=http://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json
+[ProtocolInfo]
+ProtocolId=QTWeb
