@@ -1,5 +1,6 @@
 Action()
 {
+lr_start_transaction("Top_Menu");
 
 	web_add_cookie("_ga=GA1.2.206493945.1472112125; DOMAIN=www.advantageonlineshopping.com");
 
@@ -63,6 +64,9 @@ Action()
 		"Url=/catalog/fetchImage?image_id=4602", ENDITEM, 
 		LAST);
 
+lr_end_transaction("Top_Menu", LR_AUTO);
+lr_start_transaction("Speaker_Select");
+
 	web_set_sockets_option("SSL_VERSION", "2&3");
 
 	web_custom_request("GetAccountConfigurationRequest", 
@@ -76,6 +80,9 @@ Action()
 		"EncType=text/xml; charset=UTF-8", 
 		"Body=<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\"><soap:Body><GetAccountConfigurationRequest xmlns=\"com.advantage.online.store.accountservice\"></GetAccountConfigurationRequest></soap:Body></soap:Envelope>", 
 		LAST);
+
+lr_end_transaction("Speaker_Select", LR_AUTO);
+lr_start_transaction("Item_Description");
 
 	web_url("home-page.html", 
 		"URL=http://www.advantageonlineshopping.com/app/views/home-page.html", 
@@ -107,15 +114,16 @@ Action()
 		"Snapshot=t12.inf", 
 		"Mode=HTML", 
 		LAST);
-
-	web_url("product-page.html", 
-		"URL=http://www.advantageonlineshopping.com/app/views/product-page.html", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://www.advantageonlineshopping.com/", 
-		"Snapshot=t13.inf", 
-		"Mode=HTML", 
-		LAST);
+//
+//	web_url("product-page.html", 
+//		"URL=http://www.advantageonlineshopping.com/app/views/product-page.html", 
+//		"Resource=0", 
+//		"RecContentType=text/html", 
+//		"Referer=http://www.advantageonlineshopping.com/", 
+//		"Snapshot=t13.inf", 
+//		"Mode=HTML", 
+//		LAST);
+lr_end_transaction("Item_Description", LR_AUTO);
 
 	return 0;
 }

@@ -50,9 +50,13 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order=
+Order="Top_Menu__*delimiter*__Speaker_Select__*delimiter*__Item_Description"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
+[Transactions]
+Top_Menu=
+Speaker_Select=
+Item_Description=

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <iecompatlistdescription>
-    <version>1152921505002035296</version>
+    <version>1152921505002035297</version>
     <ttl>1</ttl>
     <ua id="Chrome 19">Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5</ua>
     <ua id="Chrome 28">Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36</ua>
@@ -31,7 +31,6 @@
     <f12ua category="other" name="Bing Bot">Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)</f12ua>
     <domain docMode="EmulateIE10" versionVector="10" uaString="10" featureSwitch="overrideXUACompatible:false" trackingid="543414">116.67.62.67</domain>
     <domain docMode="EmulateIE10" versionVector="10" uaString="10" featureSwitch="overrideXUACompatible:false">3dnews.ru</domain>
-    <domain docMode="EmulateIE10" versionVector="10" uaString="10" featureSwitch="overrideXUACompatible:false">americanexpress.com</domain>
     <domain docMode="EmulateIE10" versionVector="10" uaString="10" featureSwitch="overrideXUACompatible:false">armaniexchange.com</domain>
     <domain docMode="EmulateIE10" versionVector="10" uaString="10" featureSwitch="overrideXUACompatible:false">bbs.pcbeta.com</domain>
     <domain docMode="EmulateIE10" versionVector="10" uaString="10" featureSwitch="overrideXUACompatible:false">blogger.com</domain>
@@ -1285,7 +1284,6 @@
     <domain docMode="EmulateIE7" versionVector="7" uaString="7" featureSwitch="overrideXUACompatible:false">ddc.ac.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7" featureSwitch="overrideXUACompatible:false" trackingid="519659">dgb.co.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7" featureSwitch="overrideXUACompatible:false">dhu.ac.kr</domain>
-    <domain docMode="EmulateIE7" versionVector="7" uaString="7" featureSwitch="overrideXUACompatible:false">eastarjet.com</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7" featureSwitch="overrideXUACompatible:false" trackingid="481134">epost.go.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7" featureSwitch="overrideXUACompatible:false" trackingid="519659">esero.go.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7" featureSwitch="overrideXUACompatible:false">gongbuwarac.com</domain>
@@ -1335,7 +1333,6 @@
     <domain docMode="EmulateIE7" versionVector="7" uaString="7">dtro.or.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7">ebse.co.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7">edupd.com</domain>
-    <domain docMode="EmulateIE7" versionVector="7" uaString="7">e-himart.co.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7">ei.go.kr</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7" trackingid="514855">e-jejubank.com</domain>
     <domain docMode="EmulateIE7" versionVector="7" uaString="7">emc.ac.kr</domain>
@@ -1530,7 +1527,6 @@
     <domain docMode="EmulateIE9" versionVector="9" uaString="9" featureSwitch="overrideXUACompatible:false">hufs.ac.kr</domain>
     <domain docMode="EmulateIE9" versionVector="9" uaString="9" featureSwitch="overrideXUACompatible:false">interpark.com</domain>
     <domain docMode="EmulateIE9" versionVector="9" uaString="9" featureSwitch="overrideXUACompatible:false">mywellbeingjourney.com</domain>
-    <domain docMode="EmulateIE9" versionVector="9" uaString="9" featureSwitch="overrideXUACompatible:false">pusan.ac.kr</domain>
     <domain docMode="EmulateIE9" versionVector="9" uaString="9" featureSwitch="overrideXUACompatible:false" trackingid="481134">shinhanlife.co.kr</domain>
     <domain docMode="EmulateIE9" versionVector="9" uaString="9" featureSwitch="overrideXUACompatible:false">toria.tv</domain>
     <domain docMode="EmulateIE9" versionVector="9" uaString="9" featureSwitch="overrideXUACompatible:false">uplusbox.co.kr</domain>
@@ -2644,7 +2640,6 @@
         <domain>dgb.co.kr</domain>
         <domain>ebs.co.kr</domain>
         <domain>ebsi.co.kr</domain>
-        <domain>e-himart.co.kr</domain>
         <domain>ei.go.kr</domain>
         <domain>elster.de</domain>
         <domain>emart.com</domain>
@@ -3370,7 +3365,6 @@
         <domain trackingid="481134">duunni.com</domain>
         <domain trackingid="481134">dyu.ac.kr</domain>
         <domain trackingid="535493">eapat.co.kr</domain>
-        <domain trackingid="481134">eastarjet.com</domain>
         <domain trackingid="481134">easypay.co.kr</domain>
         <domain trackingid="535493">easyshop.co.kr</domain>
         <domain>ebay.com.au</domain>
@@ -3404,7 +3398,6 @@
         <domain trackingid="481134">efine.go.kr</domain>
         <domain trackingid="519708">e-giro.or.kr</domain>
         <domain>egloos.com</domain>
-        <domain>e-himart.co.kr</domain>
         <domain trackingid="481134">ehyundai.com</domain>
         <domain trackingid="518566">ei.go.kr</domain>
         <domain trackingid="519708">eitc.go.kr</domain>
@@ -4471,7 +4464,6 @@
         <domain trackingid="481134">pufs.ac.kr</domain>
         <domain trackingid="481134">pullbbang.com</domain>
         <domain trackingid="481134">pur-ple.co.kr</domain>
-        <domain trackingid="481134">pusan.ac.kr</domain>
         <domain trackingid="539165">pwc.comkrko</domain>
         <domain trackingid="481134">qidian.com</domain>
         <domain trackingid="481134">q-net.or.kr</domain>
